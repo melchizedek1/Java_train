@@ -1,2 +1,2 @@
-# studious-train
-Repositorio para treinamento - DIO
+# treinamento_Java
+Repositorio para treinamento Java
